@@ -1,0 +1,466 @@
+{
+	"users": [
+		{
+			"id": 1,
+			"name": "Jack O'Niell",
+			"created_at": "2019-06-04 20:40:26",
+			"active": "true"
+		},
+		{
+			"id": 2,
+			"name": "Daniel Jackson",
+			"created_at": "2019-06-19 18:19:33",
+			"active": "true"
+		},
+		{
+			"id": 3,
+			"name": "Samantha Carter",
+			"created_at": "2019-06-28 18:20:18",
+			"active": "true"
+		},
+		{
+			"id": 4,
+			"name": "Teal'c",
+			"created_at": "2019-06-29 18:32:46",
+			"active": "true"
+		},
+		{
+			"id": 5,
+			"name": "Janet Frasier",
+			"created_at": "2019-07-05 18:32:49",
+			"active": "true"
+		},
+		{
+			"id": 6,
+			"name": "Cameron Mitchell",
+			"created_at": "2019-07-06 18:32:54",
+			"active": "false"
+		},
+		{
+			"id": 7,
+			"name": "Jonas Quinn",
+			"created_at": "2019-06-06 16:45:16",
+			"active": "false"
+		},
+		{
+			"id": 8,
+			"name": "Vala Mal DOran",
+			"created_at": "2018-06-14 19:06:56",
+			"active": "false"
+		},
+		{
+			"id": 9,
+			"name": "George Hammond",
+			"created_at": "2018-05-30 22:18:06",
+			"active": "true"
+		},
+		{
+			"id": 10,
+			"name": "Hank Landry",
+			"created_at": "2018-05-20 23:57:19",
+			"active": "false"
+		}
+	],
+	"scores": [
+		{
+			"user_id": 5,
+			"score": 8
+		},
+		{
+			"user_id": 1,
+			"score": 6
+		},
+		{
+			"user_id": 7,
+			"score": 6
+		},
+		{
+			"user_id": 1,
+			"score": 6
+		},
+		{
+			"user_id": 5,
+			"score": 3
+		},
+		{
+			"user_id": 9,
+			"score": 4
+		},
+		{
+			"user_id": 4,
+			"score": 10
+		},
+		{
+			"user_id": 9,
+			"score": 6
+		},
+		{
+			"user_id": 10,
+			"score": 8
+		},
+		{
+			"user_id": 1,
+			"score": 9
+		},
+		{
+			"user_id": 7,
+			"score": 1
+		},
+		{
+			"user_id": 1,
+			"score": 7
+		},
+		{
+			"user_id": 4,
+			"score": 9
+		},
+		{
+			"user_id": 5,
+			"score": 8
+		},
+		{
+			"user_id": 8,
+			"score": 9
+		},
+		{
+			"user_id": 8,
+			"score": 1
+		},
+		{
+			"user_id": 6,
+			"score": 6
+		},
+		{
+			"user_id": 2,
+			"score": 1
+		},
+		{
+			"user_id": 3,
+			"score": 2
+		},
+		{
+			"user_id": 3,
+			"score": 3
+		},
+		{
+			"user_id": 4,
+			"score": 7
+		},
+		{
+			"user_id": 5,
+			"score": 2
+		},
+		{
+			"user_id": 2,
+			"score": 1
+		},
+		{
+			"user_id": 3,
+			"score": 6
+		},
+		{
+			"user_id": 3,
+			"score": 3
+		},
+		{
+			"user_id": 8,
+			"score": 6
+		},
+		{
+			"user_id": 4,
+			"score": 4
+		},
+		{
+			"user_id": 9,
+			"score": 8
+		},
+		{
+			"user_id": 8,
+			"score": 2
+		},
+		{
+			"user_id": 5,
+			"score": 4
+		},
+		{
+			"user_id": 8,
+			"score": 10
+		},
+		{
+			"user_id": 5,
+			"score": 6
+		},
+		{
+			"user_id": 8,
+			"score": 7
+		},
+		{
+			"user_id": 1,
+			"score": 10
+		},
+		{
+			"user_id": 8,
+			"score": 5
+		},
+		{
+			"user_id": 1,
+			"score": 7
+		},
+		{
+			"user_id": 7,
+			"score": 2
+		},
+		{
+			"user_id": 9,
+			"score": 3
+		},
+		{
+			"user_id": 1,
+			"score": 9
+		},
+		{
+			"user_id": 3,
+			"score": 8
+		},
+		{
+			"user_id": 3,
+			"score": 10
+		},
+		{
+			"user_id": 3,
+			"score": 6
+		},
+		{
+			"user_id": 5,
+			"score": 2
+		},
+		{
+			"user_id": 10,
+			"score": 9
+		},
+		{
+			"user_id": 4,
+			"score": 7
+		},
+		{
+			"user_id": 6,
+			"score": 8
+		},
+		{
+			"user_id": 1,
+			"score": 3
+		},
+		{
+			"user_id": 4,
+			"score": 7
+		},
+		{
+			"user_id": 5,
+			"score": 6
+		},
+		{
+			"user_id": 5,
+			"score": 9
+		},
+		{
+			"user_id": 6,
+			"score": 9
+		},
+		{
+			"user_id": 6,
+			"score": 1
+		},
+		{
+			"user_id": 8,
+			"score": 1
+		},
+		{
+			"user_id": 6,
+			"score": 1
+		},
+		{
+			"user_id": 5,
+			"score": 7
+		},
+		{
+			"user_id": 5,
+			"score": 9
+		},
+		{
+			"user_id": 8,
+			"score": 3
+		},
+		{
+			"user_id": 9,
+			"score": 2
+		},
+		{
+			"user_id": 4,
+			"score": 7
+		},
+		{
+			"user_id": 8,
+			"score": 6
+		},
+		{
+			"user_id": 4,
+			"score": 2
+		},
+		{
+			"user_id": 1,
+			"score": 2
+		},
+		{
+			"user_id": 4,
+			"score": 6
+		},
+		{
+			"user_id": 4,
+			"score": 9
+		},
+		{
+			"user_id": 6,
+			"score": 7
+		},
+		{
+			"user_id": 8,
+			"score": 1
+		},
+		{
+			"user_id": 1,
+			"score": 7
+		},
+		{
+			"user_id": 10,
+			"score": 6
+		},
+		{
+			"user_id": 3,
+			"score": 2
+		},
+		{
+			"user_id": 2,
+			"score": 8
+		},
+		{
+			"user_id": 10,
+			"score": 9
+		},
+		{
+			"user_id": 2,
+			"score": 5
+		},
+		{
+			"user_id": 1,
+			"score": 7
+		},
+		{
+			"user_id": 1,
+			"score": 4
+		},
+		{
+			"user_id": 3,
+			"score": 8
+		},
+		{
+			"user_id": 2,
+			"score": 9
+		},
+		{
+			"user_id": 1,
+			"score": 5
+		},
+		{
+			"user_id": 8,
+			"score": 9
+		},
+		{
+			"user_id": 3,
+			"score": 10
+		},
+		{
+			"user_id": 3,
+			"score": 9
+		},
+		{
+			"user_id": 8,
+			"score": 7
+		},
+		{
+			"user_id": 6,
+			"score": 6
+		},
+		{
+			"user_id": 8,
+			"score": 10
+		},
+		{
+			"user_id": 8,
+			"score": 1
+		},
+		{
+			"user_id": 2,
+			"score": 3
+		},
+		{
+			"user_id": 8,
+			"score": 1
+		},
+		{
+			"user_id": 3,
+			"score": 2
+		},
+		{
+			"user_id": 8,
+			"score": 6
+		},
+		{
+			"user_id": 6,
+			"score": 2
+		},
+		{
+			"user_id": 10,
+			"score": 10
+		},
+		{
+			"user_id": 9,
+			"score": 1
+		},
+		{
+			"user_id": 9,
+			"score": 4
+		},
+		{
+			"user_id": 4,
+			"score": 2
+		},
+		{
+			"user_id": 8,
+			"score": 1
+		},
+		{
+			"user_id": 1,
+			"score": 9
+		},
+		{
+			"user_id": 4,
+			"score": 10
+		},
+		{
+			"user_id": 9,
+			"score": 7
+		},
+		{
+			"user_id": 6,
+			"score": 9
+		},
+		{
+			"user_id": 4,
+			"score": 6
+		},
+		{
+			"user_id": 5,
+			"score": 10
+		}
+	]
+}
